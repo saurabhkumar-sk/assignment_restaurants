@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "712287509711",
+    "project_id": "flybet-101",
+    "storage_bucket": "flybet-101.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712287509711:android:eb6092184b66d5aaf5abba",
+        "android_client_info": {
+          "package_name": "com.flybets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712287509711-c9740mts20miip7pu8c121dj3p9dbfri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5CMyCfiFxsqWX7PdiTQLsdVZjlzS-r2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712287509711-c9740mts20miip7pu8c121dj3p9dbfri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
